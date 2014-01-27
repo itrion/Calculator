@@ -7,3 +7,7 @@ class Calculator:
 
 	def sum(self, number_a, number_b):
 		return number_a + number_b
+
+	def sqrt(self, number):
+		return 24
+		

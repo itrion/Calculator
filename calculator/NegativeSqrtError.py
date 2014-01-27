@@ -1,0 +1,2 @@
+class NegativeSqrtError(BaseException):
+	pass
